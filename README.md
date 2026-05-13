@@ -7,3 +7,5 @@ Lógica de programação em python
 
 ## SOP
 Sistemas Operacionais
+
+## ARI
